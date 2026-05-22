@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Editor (escolha os que usa)
+.vscode/
+.idea/
+
+# Sistema
+Thumbs.db
+
+# Variáveis de ambiente (qualquer .env além dos já listados)
+.env
